@@ -1,0 +1,221 @@
+.product_certification_details li .pdp_bis_logo{width:auto;height:26px;object-fit:cover;}
+.sprite.icon4_png {
+  background-image:url(https://static.oriana.com/static/version1653591264/frontend/Custom/oriana/en_US/images/bis-hallmark-black-small.png);background-position:unset;
+  width: 26px;
+  height: 24px;
+}
+body.cms-index-index .categorires-columns .category-col-3 .column-image3{
+    background: url(https://media.grtjewels.com/oriana_grtlive_homepage.jpg) 0px 0px no-repeat;
+}
+    @media (max-width: 810px) {
+        .catalog-product-view .gallery-placeholder .fotorama-video-container .product-video {
+            height: max-content;
+            width: 100%;
+         }
+    }
+        .catalog-product-view .gallery-placeholder .fotorama-video-container .product-video .plyr__video-wrapper {
+			background-color: #fff;
+		}
+.storelocator-index-index .stores .store .phone { width: 100%; }
+p.language-INR:after {
+    content: "";
+    height: 7px;
+    width: 7px;
+    border-width: 0 2px 2px 0;
+    border-color: #000;
+    border-style: solid;
+    transform: translateY(-50%) rotate(45deg);
+    position: absolute;
+    right: 8px;
+    top: 8px;
+}
+div#search_autocomplete {
+    display: block !important;
+}
+.form-instant-pay {
+    display: none;
+}
+html body#html-body div.grt-pre-con {
+    display: none !important;
+}
+
+.cms-index-index .magestore-bannerslide-flex-slider .slick-arrow { opacity: 0; transition: all .25s ease-in-out; -moz-transition: all .25s ease-in-out; -webkit-transition: all .25s ease-in-out; }
+
+.cms-index-index .magestore-bannerslide-flex-slider:hover .slick-arrow { opacity: 1; }
+
+.cms-index-index .magestore-bannerslide-flex-slider .slick-dots {
+    position: absolute;
+    bottom: 13px;
+	
+}
+
+body .fixed-nav-bar .header.content div.header-option-btns .digi-gold.me-2 {
+ display: none !important;
+}
+
+ .digigold-nav {
+            display: none;
+        }
+
+.topAccountPop ul li:nth-child(5) {
+    display: none;
+}
+
+
+.cms-index-index .magestore-bannerslide-flex-slider  .slick-dots li button, .cms-index-index .magestore-bannerslide-flex-slider .slick-dots li .cart.table-wrapper .actions-toolbar>.action, .cms-index-index .magestore-bannerslide-flex-slider .slick-dots li .action-gift {
+    background: #666;
+    border: none;
+}
+
+.cms-index-index .magestore-bannerslide-flex-slider  .slick-dots li button, .cms-index-index .magestore-bannerslide-flex-slider .slick-dots li .cart.table-wrapper .actions-toolbar>.action, .cms-index-index .magestore-bannerslide-flex-slider .slick-dots li .action-gift {
+    background: #666;
+    border: none;
+}
+.cms-index-index .magestore-bannerslide-flex-slider  .slick-dots li.slick-active button, .cms-index-index .magestore-bannerslide-flex-slider .slick-dots li.slick-active .cart.table-wrapper .actions-toolbar>.action, .cms-index-index .magestore-bannerslide-flex-slider .slick-dots li.slick-active .action-gift {
+    background: #1c1918;
+}
+
+.cms-index-index .magestore-bannerslide-flex-slider  .slick-prev:active, .cms-index-index .magestore-bannerslide-flex-slider .slick-next:active, .cms-index-index .magestore-bannerslide-flex-slider .slick-prev:focus, .cms-index-index .magestore-bannerslide-flex-slider .slick-next:focus, .cms-index-index .magestore-bannerslide-flex-slider .slick-prev:not(.primary), .cms-index-index .magestore-bannerslide-flex-slider .slick-next:not(.primary) {
+    background: none;
+    background-size: 100%;
+}
+
+.cms-index-index .magestore-bannerslide-flex-slider  .slick-prev:before, .cms-index-index .magestore-bannerslide-flex-slider .slick-next:before, .cms-index-index .magestore-bannerslide-flex-slider .slick-prev:after, .cms-index-index .magestore-bannerslide-flex-slider .slick-next:after {
+    color: #fff;
+}
+
+.cms-index-index .magestore-bannerslide-flex-slider  .slick-prev:hover:before, .cms-index-index .magestore-bannerslide-flex-slider .slick-next:hover:before, .cms-index-index .magestore-bannerslide-flex-slider .slick-prev:hover:after, .cms-index-index .magestore-bannerslide-flex-slider .slick-next:hover:after {
+    color: #555;
+}
+
+.cms-index-index .oriana-wrapper .collections-wrapper .collection-carousel {
+    max-width: 1080px;
+    margin: auto;
+}
+
+
+.cms-index-index .oriana-wrapper .collections-wrapper .collection-carousel .item-wrap img {
+    width: 100%;
+    max-width: 330px;
+}
+
+.cms-index-index .oriana-wrapper .collections-wrapper .collection-carousel .collection-item{
+    width: 100%;
+    max-width: 330px;
+}
+
+.cms-index-index  .oriana-wrapper .collections-wrapper {
+    background-color: #fcf2f3;
+}
+
+.cms-index-index .magestore-bannerslide-flex-slider  .flexslider-content-image  div.banner-slides ~ .banner-slides {
+		display : none;
+}
+
+.cms-index-index .magestore-bannerslide-flex-slider .flexslider-content-image.slick-initialized.slick-slider  div.banner-slides {
+		display : block;
+}
+
+.cms-index-index .home-page-our-collections .collection-carousel {
+	display : none;
+}
+
+.cms-index-index .home-page-our-collections .collection-carousel.slick-initialized.slick-slider {
+	display : block;
+}
+
+.cms-index-index section.g-awards-wrap .awards-carousel {
+	display : none;
+}
+
+.cms-index-index section.g-awards-wrap .awards-carousel.slick-initialized.slick-slider {
+	display : block;
+}
+
+.cms-index-index section.g-media-section .news-carousel {
+	display : none;
+}
+.cms-index-index section.g-media-section .news-carousel.slick-initialized.slick-slider {
+	display : block;
+}
+
+.cms-index-index .home-page-our-collections .collections-corousel .our-collections-mobile.slick-initialized.slick-slider  {
+	display : block;
+}
+
+
+.cms-index-index .home-page-our-collections .collections-corousel .our-collections-mobile  {
+		display : none;
+}
+
+
+.cms-index-index .home-page-our-collections .collections-corousel.desktop-carousel .our-collections.slick-initialized.slick-slider div.collection-slides  {
+	display : block;
+}
+
+
+.cms-index-index .home-page-our-collections .collections-corousel.desktop-carousel .our-collections  div.collection-slides ~ .collection-slides {
+		display : none;
+}
+.size-chart a {
+font-weight: 500;
+}
+.size-chart a:hover {
+text-decoration: underline !important;
+}
+.cms-index-index .home-page-our-collections.oriana-wrapper {
+background-color: #fcf2f3;
+}
+.manadev-sidebar .filter-options .filter-options-content.see-more-filters::-webkit-scrollbar-thumb {
+   background-color: #b8292f;
+}
+.manadev-sidebar .filter-options .filter-options-content.see-more-filters {
+    right: 0px;
+}
+body .fixed-nav-bar .header.content div.header-option-btns .digi-gold.me-2 {
+ display: none !important;
+}
+
+body.sales-order-history .order-block a:hover {
+    color: #690e13;
+}
+
+body.sales-order-history .order-block a {
+    color: #b8292f;
+}
+
+
+.savingscheme-index-index .page-main{ display: none; }
+.sales-order-view .order-price{ font-family: "Roboto",sans-serif; }
+.gifts-jewels-index select#price { font-family: "Roboto",sans-serif; }
+.sortable-handler {
+  touch-action: none;
+}
+.owl-carousel {
+    -ms-touch-action: none;
+    touch-action: none;
+}
+.grt-productdetail-container .grt-product-detailpage .grt-product-detailpage-rightsection .grt-product-detailpage-ratesection a {
+padding: 0px;
+}
+.minicart-wrapper .action.showcart .counter.qty.empty {
+display: block;
+}
+.fotorama__caption {
+  display: none;
+}
+.field-recaptcha{
+   margin: 15px auto !important;
+   width: auto !important;
+   height: auto !important;
+   text-align: -webkit-center;
+   text-align: -moz-center;
+   text-align: -o-center;
+   text-align: -ms-center;
+}
+.customer-account-login .block-new-customer {
+display:none;
+}
+.customer-account-logoutsuccess .page-title-wrapper {
+display:none;
+}
